@@ -1,4 +1,3 @@
-# elevate-labs-task-2
 # ✨ Awesome To-Do List
 
 A stylish, responsive to-do list web app built with **HTML, CSS, and JavaScript**. It lets users add, edit, delete, and mark tasks as complete while showing real-time progress. A celebratory confetti animation plays when all tasks are completed.
